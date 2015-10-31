@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Contact Form Plugin
-Plugin URI: http://www.deltadigital.ca/contact-form-plugin
+Plugin URI: 
 Description: Simple WordPress Contact Form
 Version: 1.0
-Author: Eduard Trentovski
-Author URI: http://www.deltadigital.ca
+Author: 
+Author URI: 
 
 */
 
